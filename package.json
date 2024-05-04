@@ -187,7 +187,7 @@
     "csp_evaluator": "1.1.1",
     "devtools-protocol": "0.0.1232444",
     "enquirer": "^2.3.6",
-    "http-link-header": "^1.1.1",
+    "http-link-header": "^1.1.3",
     "intl-messageformat": "^10.5.3",
     "jpeg-js": "^0.4.4",
     "js-library-detector": "^6.7.0",
